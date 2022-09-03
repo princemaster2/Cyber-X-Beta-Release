@@ -1,6 +1,6 @@
 ##                       CYBER-X TESTING WHATSAPP BOT
 
-<img src="https://telegra.ph/file/77892e797a8e80e06fb51.jpg" alt="GIF" width="400" height="250"/>
+<img src="https://telegra.ph/file/77892e797a8e80e06fb51.jpg" alt="GIF" width="500" height="250"/>
 
 </p>
 
