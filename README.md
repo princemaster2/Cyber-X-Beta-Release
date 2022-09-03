@@ -9,7 +9,7 @@
 ## QR Link 
 https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#index.js
 
-## <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/princemaster2/QUEEN-BIXBY-MD-PRO-NEW"><img align="center" src="https://telegra.ph/file/62038c96ccc2b37427081.jpg" alt="Fork and deploy" height="85" width="300" /></a>
+## <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/princemaster2/Cyber-X-Beta-Release"><img align="center" src="https://telegra.ph/file/62038c96ccc2b37427081.jpg" alt="Fork and deploy" height="85" width="300" /></a>
 
 <br>
 
