@@ -1,13 +1,18 @@
 ##                       CYBER-X TESTING WHATSAPP BOT
 
-<p align = center>   <img src="https://telegra.ph/file/71c859102f3625d06204b.jpg" alt="GIF" width="250" height="250"/> </p>
+<img src="https://telegra.ph/file/77892e797a8e80e06fb51.jpg" alt="GIF" width="300" height="270"/>
+
+</p>
 
 <p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 ## QR Link 
 https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#index.js
-## Deploy Link Template 
-```https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Cyber-X-Beta-Release```
+
+## <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/princemaster2/QUEEN-BIXBY-MD-PRO-NEW"><img align="center" src="https://telegra.ph/file/62038c96ccc2b37427081.jpg" alt="Fork and deploy" height="85" width="300" /></a>
+
+<br>
+
 ## Support Group 
 https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 
