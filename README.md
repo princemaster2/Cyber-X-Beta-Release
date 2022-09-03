@@ -1,6 +1,6 @@
 ##                       CYBER-X TESTING WHATSAPP BOT
 
-<img src="https://telegra.ph/file/77892e797a8e80e06fb51.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://telegra.ph/file/77892e797a8e80e06fb51.jpg" alt="GIF" width="400" height="250"/>
 
 </p>
 
@@ -14,7 +14,7 @@ https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#ind
 <br>
 
 ## Support Group 
-https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
+https://chat.whatsapp.com/CabGUj28tiy30el4eMMdsV
 
 
 ## In some cases, the bot may stop working automatically as soon as the button issue is resolved. So, if it happens, turn the restart Bot. I will find a solution soon.
