@@ -18,7 +18,7 @@ global.APIKeys = {
 //AUTO FUNCTIONS 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autobio = false  // auto bio system checking on Developing Leval
 global.autoRecord = false //auto recording (true to on, false to off)
